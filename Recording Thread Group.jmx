@@ -3242,7 +3242,7 @@
                 <elementProp name="key" elementType="HTTPArgument">
                   <boolProp name="HTTPArgument.always_encode">false</boolProp>
                   <stringProp name="Argument.name">key</stringProp>
-                  <stringProp name="Argument.value">REDACTED_GOOGLE_API_KEY</stringProp>
+                  <stringProp name="Argument.value"></stringProp>
                   <stringProp name="Argument.metadata">=</stringProp>
                 </elementProp>
                 <elementProp name="$httpMethod" elementType="HTTPArgument">
